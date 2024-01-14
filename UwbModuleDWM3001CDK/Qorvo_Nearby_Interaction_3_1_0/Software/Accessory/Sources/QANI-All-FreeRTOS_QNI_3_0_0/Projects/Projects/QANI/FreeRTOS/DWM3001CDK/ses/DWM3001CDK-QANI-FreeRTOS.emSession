@@ -1,0 +1,89 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Libs"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Libs;dwt_uwb_driver"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Libs;dwt_uwb_driver;lib"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Projects"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Projects;QANI"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Projects;QANI;FreeRTOS"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Projects;QANI;FreeRTOS;QANI-FreeRTOS-Common"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;SDK_BSP"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;SDK_BSP;Nordic"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;SDK_BSP;Nordic;NORDIC_SDK_17_1_0"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;SDK_BSP;Nordic;NORDIC_SDK_17_1_0;components"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;SDK_BSP;Nordic;NORDIC_SDK_17_1_0;components;boards"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;AppConfig"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;AppConfig;DWM3001CDK"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;AppConfig;DWM3001CDK;FreeRTOS"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps;Src"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps;Src;common"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps;Src;common;app"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps;Src;common;defaultTask"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps;Src;common;thread"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps;Src;fira"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Apps;Src;reporter"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Boards"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Boards;Src"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Boards;Src;DWM3001CDK"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Boards;Src;DWM3001CDK;FreeRTOS"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Boards;Src;DWM3001CDK;FreeRTOS;QANI"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Comm"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Comm;Src"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Comm;Src;BLE"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;Comm;Src;BLE;qnis"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;EventManager"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;EventManager;FreeRTOS"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;HAL"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;SecureComponent"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;SecureComponent;Crypto"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;SecureComponent;Crypto;Nordic"/>
+  <ProjectSessionItem path="DWM3001CDK-QANI-FreeRTOS;DWM3001CDK-QANI-FreeRTOS;Src;UWB"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="27" y="87" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../QANI-FreeRTOS-Common/main.c" selected="0" top="126" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../Src/Boards/Src/DWM3001CDK/FreeRTOS/QANI/DWM3001CDK.c" selected="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../Src/Boards/Src/Common_NRF/board.c" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../Src/UWBUtils/translate.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="27" y="510" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../Src/Comm/Src/BLE/ble.c" selected="0" top="505" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="53" y="47" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../Src/Comm/Src/BLE/qnis/ble_qnis.c" selected="0" top="25" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="39" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../SDK_BSP/Nordic/NORDIC_SDK_17_1_0/components/boards/boards.c" selected="1" top="30" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="DWM3001CDK-QANI-FreeRTOS" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Common" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

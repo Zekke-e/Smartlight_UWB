@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "defaulttask.h": "c",
+        "boards.h": "c",
+        "nrf_log.h": "c",
+        "nrf_log_ctrl.h": "c",
+        "nrf_log_default_backends.h": "c",
+        "bsp.h": "c",
+        "fira_niq.h": "c",
+        "eventmanager.h": "c"
+    }
+}

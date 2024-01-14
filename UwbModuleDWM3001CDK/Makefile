@@ -1,0 +1,4 @@
+build:
+	docker run -v "$$(pwd)":/project uberi/qorvo-nrf52833-board /usr/local/segger_embedded_studio_V5.42a/bin/emBuild -config "Common" /project/Qorvo_Nearby_Interaction_3_1_0/Software/Accessory/Sources/QANI-All-FreeRTOS_QNI_3_0_0/Projects/Projects/QANI/FreeRTOS/DWM3001CDK/ses/DWM3001CDK-QANI-FreeRTOS.emProject
+clean:
+	docker run -v "$$(pwd)":/project uberi/qorvo-nrf52833-board /usr/local/segger_embedded_studio_V5.42a/bin/emBuild -config "Common" -clean /project/Qorvo_Nearby_Interaction_3_1_0/Software/Accessory/Sources/QANI-All-FreeRTOS_QNI_3_0_0/Projects/Projects/QANI/FreeRTOS/DWM3001CDK/ses/DWM3001CDK-QANI-FreeRTOS.emProject

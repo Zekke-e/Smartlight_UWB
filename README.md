@@ -20,8 +20,8 @@ In this project I used [SDK](https://www.qorvo.com/products/p/DWM3001CDK#evaluat
 
 > [!NOTE]
 > for easier development I added a docker enviroment which automates building binary:
-> build: docker build -t uberi/qorvo-nrf52833-board .
-> run: docker run -it uberi/qorvo-nrf52833-board
+> - build: docker build -t uberi/qorvo-nrf52833-board .
+> - run: docker run -it uberi/qorvo-nrf52833-board
 > - make build (to create binary file)
 > - make clean (to clean enviroment)
 

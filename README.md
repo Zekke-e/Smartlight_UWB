@@ -16,7 +16,7 @@ Hardware used in above project is:
 - [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/)
 - [iPhone 12 Pro](https://support.apple.com/kb/SP831?locale=pl_PL)
 
-In this project I used [SDK](https://www.qorvo.com/products/p/DWM3001CDK#evaluation-tools) developed and maintained by Qorvo manufacture, what enables in easier development of application. Additionaly with tools from [Segger](https://segger.com/) like for e.g. j-Flash, and apple Xcode
+In this project I used [SDK](https://www.qorvo.com/products/p/DWM3001CDK#evaluation-tools) developed and maintained by Qorvo manufacture, what enables in easier development of application. Additionaly with tools from [Segger](https://segger.com/) like for e.g. j-Flash, and apple Xcode. For iOS application I decided to use Qorvo example project which I extended to use MQTT client using CocoaMQTT library.
 
 > [!NOTE]
 > for easier development I added a docker enviroment which automates building binary:
@@ -35,3 +35,6 @@ At the beginning iOS device establish a two-way data link to the accessory. The 
 
 Next is to establish connection with MQTT broker on raspberryPi and iOS device which for project purpouses I used localy manager broker by [MQTTX](https://mqttx.app/). DWM30001CDK is sending the information about distance throught UWB to iOS device wchih nextly is passing those data to raspberryPi throught MQTT. I used above solution because on rPi It has a lot of GIPO pinout so I can control easily things like light, keyless entry etc.
 <img src="ReadmeModule/mqtt.png" width="700">
+
+Utilizing an UWB anchor, the application intelligently detects my presence in the room, triggering the desk lamp to begin illuminating. Within a secure distance of 1.2 meters from the anchor. Till 1.8 meters, the lamp maintains its full brightness. When distance is larger than 1.8m lamp will stop working.
+<img src="ReadmeModule/secureZone.png" width="700">
